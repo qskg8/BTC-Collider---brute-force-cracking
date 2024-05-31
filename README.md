@@ -19,6 +19,11 @@ TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 ##  作者的github
 
 https://github.com/qskg8/BTC-Collider---brute-force-cracking
+
+##  交流群组
+
+https://t.me/btc88888eeth
+
 ## 免责声明
 
     本软件按原样提供，不提供任何保证。使用风险自负。
