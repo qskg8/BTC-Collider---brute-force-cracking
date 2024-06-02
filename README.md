@@ -8,6 +8,8 @@
 
 查询完毕现在会有提示，而且自动清空1.txt  
 
+查询到余额大于0时，会保存地址和助记词到88.txt内
+
 ##  打赏作者
 
 BTC：37TvGkvgTjKAmHW6ziFJ13VCVHbxMePdoy
